@@ -1,3 +1,13 @@
+## 一键安装与使用 (Installation)
+
+复制到 Codex、Claude Code 一键安装命令为：
+
+```bash
+npx skills add [https://github.com/ELECTG/resume-maker-skill](https://github.com/ELECTG/resume-maker-skill) --skill resume-maker-skill
+```
+
+简历结果图片为
+zw.png
 # 简历定制 Skill
 
 针对具体岗位申请优化简历，采用适合 ATS（申请人跟踪系统）识别的格式，并进行关键词优化。
