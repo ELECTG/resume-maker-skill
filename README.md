@@ -6,6 +6,7 @@
 npx skills add [https://github.com/ELECTG/resume-maker-skill](https://github.com/ELECTG/resume-maker-skill) --skill resume-maker-skill
 ```
 
+[简历结果图
 ![简历结果图](zw.png)
 # 简历定制 Skill
 
