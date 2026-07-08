@@ -6,8 +6,7 @@
 npx skills add [https://github.com/ELECTG/resume-maker-skill](https://github.com/ELECTG/resume-maker-skill) --skill resume-maker-skill
 ```
 
-简历结果图片为
-zw.png
+![简历结果图](zw.png)
 # 简历定制 Skill
 
 针对具体岗位申请优化简历，采用适合 ATS（申请人跟踪系统）识别的格式，并进行关键词优化。
