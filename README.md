@@ -3,7 +3,7 @@
 复制到 Codex、Claude Code 一键安装命令为：
 
 ```bash
-npx skills add [https://github.com/ELECTG/resume-maker-skill-gzu](https://github.com/ELECTG/resume-maker-skill-gzu) --skill resume-maker-skill-gzu
+npx skills add [https://github.com/ELECTG/resume-maker-skill](https://github.com/ELECTG/resume-maker-skill) --skill resume-maker-skill
 ```
 
 [简历结果图
